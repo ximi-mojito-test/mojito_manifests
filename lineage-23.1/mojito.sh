@@ -15,3 +15,4 @@ git clone -b lineage-23.1-tweaked https://github.com/ximi-daisy-test/android_boo
 git clone -b lineage-23.1-tweaked https://github.com/ximi-daisy-test/android_vendor_lineage --depth=1 vendor/lineage
 
 git clone -b lineage-23.1 https://github.com/LineageOS/android_hardware_xiaomi --depth=1 hardware/xiaomi
+
